@@ -1,5 +1,5 @@
 [ローカルで作業した git リポジトリを GitHub にアップする手順 \| Tomohiro Furukawa](https://hirofurukawa.com/push-local-repos-to-github/)
-## 1) 要約（3点以内）
+## 1) 要約（3点以内）c
 
 - ローカルのGitリポジトリを「GitHub上の空リポジトリ」に紐づけて `push` する手順。([Tomohiro Furukawa](https://hirofurukawa.com/push-local-repos-to-github/ "ローカルで作業した git リポジトリを GitHub にアップする手順 | Tomohiro Furukawa"))
     
