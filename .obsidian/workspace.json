@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "fe04d99693c37379",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab2f3a04e907f375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56abcbb7cb486539",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a9faa7cbc3af51c",
+    "type": "split",
+    "children": [
+      {
+        "id": "08ce7c81acfc14f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2886bbfb0d9e7db2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "ecc356b2f080bcb3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "98f44bb20ff18bce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5dd84a7bbaa6face",
+    "type": "split",
+    "children": [
+      {
+        "id": "d53cec7768a11ce1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9610f88eca5601f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "cedc38f1f135f684",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "38763743b59d1d62",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "8e2493d3316b8fb0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          },
+          {
+            "id": "553192f1c90ae175",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "templates:テンプレートを挿入": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "bases:Create new base": false,
+      "markdown-importer:Markdownインポーターを開く": false,
+      "command-palette:コマンドパレットを開く": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "terminal:Open terminal": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "56abcbb7cb486539",
+  "lastOpenFiles": [
+    "コアラ（子守熊）- 2026年 未来デザインプラン.md",
+    "99_inbox/Niji Journey 7/Niji Journey 7｜光源（ライティング）指定.md",
+    "99_inbox/Niji Journey 7/衣装・ファッション_prompt.md",
+    "99_inbox/Niji Journey 7/映り込み・反射_prompt.md",
+    "99_inbox/Extasy Studio/㊙プロンプト.md",
+    "99_inbox/Niji Journey 7",
+    "OL_prompt.md",
+    "99_inbox/スポーツグラフィック_シルエット・モザイク合成_prompt.md",
+    "99_inbox/汎用的プロンプト/文章に人間味を持たせるprompt.md",
+    "00_Notion/ナレッジメモ帳/memo/Note 高エンゲージメント記事ガイド.md",
+    "00_Notion/ナレッジメモ帳/memo/noteの推しアルゴリズムについて.md",
+    "00_Notion/NES/NES_絵本前提.md",
+    "00_Notion/NES/NES_AI絵本の作り方.md",
+    "00_Notion/ナレッジメモ帳/memo/伝え方 ― 伝えたいことを、伝えてはいけない.md",
+    "00_Notion/ナレッジメモ帳/memo/コピーライティングノウハウ.md",
+    "99_inbox/コピーライティングノウハウ.md",
+    "99_inbox/image2text prompt.md",
+    "10_AI driven/モデル_URL.md",
+    "00_Notion/ナレッジメモ帳/base.base",
+    "バックリンク関連性提案_prompt 1.md",
+    "バックリンク自動生成_prompt 1.md",
+    "バックリンク自動生成_prompt.md",
+    "バックリンク関連性提案_prompt.md",
+    "Antigravity_自動MV歌詞テロップ生成プロンプト.md",
+    "99_inbox/Extasy Studio/Swimwear Prompt Library.md",
+    "99_inbox/Extasy Studio/tiktok_safezone指定_prompt.md",
+    "挑発・煽り_prompt.md",
+    "suno_prompt.md",
+    "00_Notion/ナレッジメモ帳/00ナレッジメモ_all.base",
+    "bk/AI_tool/AI",
+    "bk/AI_tool",
+    "bk/WEB design/Work/タスク管理ツール",
+    "bk/WEB design/Work",
+    "bk/WEB design",
+    "bk/DS(☆)/WEB design/Work/タスク管理ツール",
+    "bk/DS(☆)/WEB design/Work",
+    "bk/DS(☆)/src/Untitled 9.png",
+    "bk/DS(☆)/src/Untitled.jpeg",
+    "bk/DS(☆)/src/Untitled 7.png",
+    "bk/DS(☆)/src/Untitled 8.png",
+    "bk/DS(☆)/src/Untitled 6.png",
+    "bk/DS(☆)/src/Untitled 10.png",
+    "bk/DS(☆)/src/Untitled 5.png",
+    "bk/DS(☆)/src/Untitled 4.png",
+    "bk/DS(☆)/src/Untitled 3.png",
+    "bk/DS(☆)/src/Untitled 3 2.png"
+  ]
+}

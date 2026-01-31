@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Notion/news")
+    order:
+      - file.name
+      - file.basename
+      - URL
+    columnSize:
+      file.name: 40
+      file.basename: 650

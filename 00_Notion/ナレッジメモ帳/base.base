@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.name != ".png"
+    order:
+      - file.name
+      - file.backlinks
+      - file.basename
+    sort: []
+  - type: cards
+    name: View
+    groupBy:
+      property: 更新日
+      direction: ASC
+    imageAspectRatio: 1.05
+    cardSize: 370

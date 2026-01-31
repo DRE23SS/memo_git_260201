@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("00_Notion/reading list MATERIAL")
+    order:
+      - file.name
+      - file.basename
+      - ステータス
+      - メモ
+      - リンク
+      - Googledrive を参照
+      - 種別
+      - 図解先
+      - 電話
+    indentProperties: false
+    markers: number

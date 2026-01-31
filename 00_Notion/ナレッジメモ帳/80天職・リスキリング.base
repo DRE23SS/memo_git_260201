@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("00_Notion/ナレッジメモ帳/memo")
+        - タグ.contains("天職・リスキリング")
+    order:
+      - file.name
+      - file.basename
+      - サブタイトル
+      - タグ
+    sort:
+      - property: タグ
+        direction: ASC

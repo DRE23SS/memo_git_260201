@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("00_Notion/reading list BOOK")
+    order:
+      - file.name
+      - file.backlinks
+      - file.fullname
+      - ジャンル
+      - ステータス
+      - 図解
+      - 媒体
+    sort:
+      - property: 読了日
+        direction: DESC
+    columnSize:
+      note.図解: 65

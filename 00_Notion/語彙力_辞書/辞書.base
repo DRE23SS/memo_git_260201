@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Notion/語彙力_辞書/dictionary")
+    order:
+      - file.name
+      - file.basename
+      - 意味

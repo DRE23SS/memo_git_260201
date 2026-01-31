@@ -1,0 +1,1 @@
+blurry, lowres, deformed, extra limbs, bad anatomy, poorly drawn face, mutated hands, watermark, text, signature, indoor, bedroom, wall, lamp, dull colors, overexposed, harsh shadows, cartoon, anime, plastic skin, full body lower focus, important details in bottom third
