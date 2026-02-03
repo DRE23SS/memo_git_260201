@@ -1,5 +1,5 @@
 [【無料配布】Nano Banana用プロンプト厳選8選！コピペで即試せる画像生成＆編集テクニック \| WEEL](https://weel.co.jp/media/innovator/nano-banana-prompts/)
-
+#nanobanana 
 ## Nano Bananaのプロンプトのコツ
 
 **Nano Banana用のプロンプトを作成する際のコツは、以下の35点。**基本的には、他の画像生成AIや[LLM](https://weel.co.jp/media/llm)同様、「具体的かつシンプルな構造のプロンプト」が推奨されます。
